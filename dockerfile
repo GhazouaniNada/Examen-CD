@@ -1,5 +1,5 @@
 FROM java:8-jdk-alpine
-MAINTAINER GHAZOUANI Nada (nada.ghazouani@esprit.tn)
+
 COPY ./target/reservation-service-0.0.1-SNAPSHOT.jar /usr/app/
 
 WORKDIR /usr/app
