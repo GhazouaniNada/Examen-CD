@@ -31,7 +31,7 @@ pipeline {
 
                     // Let's clone the source
 
-                    git 'https://github.com/SabrineMzeh/Exam_CD.git';
+                    git 'https://github.com/GhazouaniNada/Examen-CD.git';
 
                 }
 
